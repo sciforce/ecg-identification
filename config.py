@@ -1,0 +1,12 @@
+# directories path
+BASIC_DIR = "~/ECG_Analysis/ECG_data"
+
+ECG_eHEALTH_DATA_DIR = BASIC_DIR + '/eHealth_ECG'
+ECG_ID_DATA_DIR = BASIC_DIR + '/ECG-ID/resampled'
+
+ECG_eHEALTH_DATA_DIR = BASIC_DIR + '/eHealth_ECG'
+ECG_eHEALTH_TRAIN_DATA_DIR = BASIC_DIR + '/trainECG'
+ECG_eHEALTH_TEST_DATA_DIR = BASIC_DIR + '/testECG'
+
+SEGMENTATOR_DIR = BASIC_DIR + '/ECG_segmentator'
+COMBINATOR_DIR = BASIC_DIR + '/ECG_combinator'
